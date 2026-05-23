@@ -1,0 +1,8 @@
+username=none
+points=0
+streak=0
+focus_days=0
+last_checkin_date=none
+last_focus_date=none
+warmup_records=
+focus_records=
