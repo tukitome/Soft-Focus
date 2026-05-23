@@ -45,19 +45,19 @@ The system will automatically:
 
 
 ### Memory Pulse
-	Remember and repeat a random sentence.
+Remember and repeat a random sentence.
 
 ### Number Trail
-	Sort random numbers from smallest to largest.
+Sort random numbers from smallest to largest.
 
 ### Word Check
-	Find the word with incorrect letter order.
+Find the word with incorrect letter order.
 
 ### Focus Filter
-	Count how many times a target character appears.
+Count how many times a target character appears.
 
 ### Rule Switch
-	Convert symbols or letters based on simple rules.
+Convert symbols or letters based on simple rules.
   
 
 ## FILES
