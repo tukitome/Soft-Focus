@@ -1,9 +1,9 @@
-###SOFT FOCUS
+# SOFT FOCUS
 
-#A lightweight task-support program that uses simple cognitive warm-up mini-games 
-to reduce task-start resistance and help users enter a more focused state.
+### A lightweight task-support program that uses simple cognitive warm-up mini-games 
+### to reduce task-start resistance and help users enter a more focused state.
 
-##USAGE
+## USAGE
 
 
 Soft Focus is designed for situations where users:
@@ -18,7 +18,7 @@ The system adjusts game difficulty based on user accuracy, tracks focus quality
 over time, and recommends suitable focus periods based on past performance.
 
 
-##HOW TO RUN
+## HOW TO RUN
 
 
 Run main.py to start the program.
@@ -29,7 +29,7 @@ The system will automatically:
 - save progress after use
 
 
-##FEATURES
+## FEATURES
 
 
 1. Warm-up + focus session
@@ -41,26 +41,26 @@ The system will automatically:
 7. Save and exit
 
 
-##MINI-GAMES
+## MINI-GAMES
 
 
-Memory Pulse
+### Memory Pulse
 	Remember and repeat a random sentence.
 
-Number Trail
+### Number Trail
 	Sort random numbers from smallest to largest.
 
-Word Check
+### Word Check
 	Find the word with incorrect letter order.
 
-Focus Filter
+### Focus Filter
 	Count how many times a target character appears.
 
-Rule Switch
+### Rule Switch
 	Convert symbols or letters based on simple rules.
   
 
-##FILES
+## FILES
 
 
 main.py
